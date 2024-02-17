@@ -1,0 +1,13 @@
+.search-wrapper{
+   
+    margin: 0 auto;
+    
+}
+
+#pokemen-name-search{
+   margin: 1rem;
+    width: 600px;
+    padding: 1rem;
+    border-radius: 10px;
+    letter-spacing: 3px;
+}
